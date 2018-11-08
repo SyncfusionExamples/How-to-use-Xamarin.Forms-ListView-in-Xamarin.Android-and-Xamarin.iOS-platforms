@@ -1,6 +1,7 @@
 # How to use Xamarin.Forms ListView in Xamarin.Android and Xamarin.iOS platforms
 This example demonstrates how to use Xamarin.Forms ListView in Xamarin.Android and Xamarin.iOS platforms.
 
+See [How to use Xamarin.Forms ListView in Xamarin.Android and Xamarin.iOS platforms](https://www.syncfusion.com/kb/9392/how-to-use-xamarin-forms-listview-in-xamarin-android-and-xamarin-ios-platforms) for more details.
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
 * [Visual Studio 2017](https://visualstudio.microsoft.com/downloads/) or [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/).
